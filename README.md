@@ -1,10 +1,10 @@
 ## Hi there! 👋 I'm AxmBro 🇵🇱
 
-**UI/UX Perfectionist | CS Student | MCBE & Web Developer**
+**Perfectionist | CS Student | MCBE & Web Developer | UI/UX**
 
 I have over 4 years of programming experience. I specialize in **Minecraft Bedrock Edition** modding, especially creating custom user interfaces (JsonUI). At the same time, I am actively learning and building **web projects**. I pay great attention to detail and always make sure my work looks great and runs smoothly.
 
-[![axmbro.dev](https://img.shields.io/badge/axmbro.dev-238636.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.axmbro.dev) [![Contact](https://img.shields.io/badge/Contact-238636.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://www.axmbro.dev/contact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-238636.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.axmbro.dev) [![Projects](https://img.shields.io/badge/Projects-238636.svg?style=for-the-badge&logo=trello&logoColor=white)](https://www.axmbro.dev/projects) [![Contact](https://img.shields.io/badge/Contact-238636.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://www.axmbro.dev/contact)
 
 ## 🚀 Experience, Education & Projects
 
