@@ -8,8 +8,6 @@ I also build responsive websites with React and Next.js, explore AI tools to gro
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-238636.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.axmbro.dev) [![Projects](https://img.shields.io/badge/Projects-238636.svg?style=for-the-badge&logo=trello&logoColor=white)](https://www.axmbro.dev/projects) [![Contact](https://img.shields.io/badge/Contact-238636.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://www.axmbro.dev/contact)
 
----
-
 ## 📊 Track Record & Reach
 
 - 4+ Years Experience
@@ -17,8 +15,6 @@ I also build responsive websites with React and Next.js, explore AI tools to gro
 - 16 Portfolio Projects
 - 9 Client Commissions
 - 8K+ YouTube Subscribers (1.5M+ Views)
-
----
 
 ## 💼 Experience & Education
 
@@ -37,8 +33,6 @@ I also build responsive websites with React and Next.js, explore AI tools to gro
 ### 🎓 Computer Science Student at University of Silesia (Oct 2025 - Present)
 - Building a formal foundation in software engineering and computer systems.
 - Current coursework includes algorithms, databases, object-oriented programming, computer networks, and digital logic.
-
----
 
 ## 🛠️ Capabilities & Skills
 
@@ -61,8 +55,6 @@ I also build responsive websites with React and Next.js, explore AI tools to gro
 > **Polish:** Native • **English:** B2 (Learning)
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,scss,react,nextjs,tailwind,github,git,vercel,cpp,java,py,linux)](https://skillicons.dev)
-
----
 
 ## 📫 Contact & Commissions
 
