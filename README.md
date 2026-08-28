@@ -11,11 +11,11 @@
 [![Commissions](https://img.shields.io/badge/Commissions-238636.svg?style=for-the-badge&logo=googleforms&logoColor=white)](https://www.axmbro.dev/commissions)
 [![Contact](https://img.shields.io/badge/Contact-238636.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://www.axmbro.dev/contact)
 
-## Track Record
+## Track Record & Reach
 
 - **4+** years experience
-- **2M+** project downloads ([Better Bedrock](https://www.axmbro.dev/projects/better_bedrock))
-- **16** portfolio projects on [axmbro.dev/projects](https://www.axmbro.dev/projects)
+- **2M+** project downloads
+- **17** portfolio projects on [axmbro.dev/projects](https://www.axmbro.dev/projects)
 - **10** client commissions (JsonUI, HUDs, server forms)
 - **8K+** YouTube subscribers (1.5M+ views)
 
